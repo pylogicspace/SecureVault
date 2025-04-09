@@ -1,2 +1,0 @@
-# SecureVault
-store password 
